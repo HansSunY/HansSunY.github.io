@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuhao Sun / Personal Homepage"
+title                    : "Yuhao Sun"
 title_separator          : "-"
 name                     : &name "Yuhao Sun"
 description              : &description "a first-year MS student from USTC"
