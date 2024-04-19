@@ -12,7 +12,7 @@ title                    : "Yuhao Sun"
 title_separator          : "-"
 name                     : &name "Yuhao Sun"
 description              : &description "a first-year MS student from USTC"
-url                      : "https://hanssuny.github.io"
+url                      : https://hanssuny.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HansSunY/HansSunY.github.io"
 
