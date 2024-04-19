@@ -21,7 +21,7 @@ repository               : "HansSunY/HansSunY.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/syh.png"
+  avatar           : "syh.png"
   name             : "Yuhao Sun 孙雨豪"
   pronouns         : # example: "she/her"  
   bio              : "MS student at USTC"
