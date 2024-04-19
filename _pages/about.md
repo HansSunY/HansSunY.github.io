@@ -18,7 +18,7 @@ Publications
 <font size="2">
 <strong>Yuhao Sun</strong>, Lingyun Yu, Hongtao Xie, Jiaming Li, Yongdong Zhang<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <br />
-<a href="/files/diffam.pdf">Paper</a> | 
+<a href="/files/diffam.pdf">Paper</a> 
 <br />
 </font>
 </p>
