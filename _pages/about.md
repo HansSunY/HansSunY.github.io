@@ -10,3 +10,15 @@ I am currently a first-year MS student at [IMCCLab@USTC](https://imcc.ustc.edu.c
 
 My research interests include computer vision and AI security. Currently I’m working on facial privacy and safe & responsible generative model. You can find my CV [here](/assets/Yuhao_Sun_cv.pdf).
 
+Publications
+-----
+<img style="float: left; margin:5px 10px" src="/images/diffam.jpg" width="160" height="140">
+### DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection
+<p style="line-height:1.0">
+<font size="2">
+<strong>Yuhao Sun</strong>, Lingyun Yu, Hongtao Xie, Jiaming Li, Yongdong Zhang<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <br />
+<a href="/files/diffam.pdf">Paper</a> | 
+<br />
+</font>
+</p>
