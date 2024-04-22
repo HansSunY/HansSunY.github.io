@@ -23,7 +23,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="/images/uiamark.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="/images/uiamark.png" width="160" height="140">
 ### UIAMark: Unified Identity and Attribute Watermarking for Source Tracing and Proactive Deepfake Detection
 <p style="line-height:1.0">
 <font size="2">
