@@ -22,14 +22,3 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
-
-<img style="float: left; margin:5px 10px" src="/images/uiamark.png" width="160" height="140">
-### UIAMark: Unified Identity and Attribute Watermarking for Source Tracing and Proactive Deepfake Detection
-<p style="line-height:1.0">
-<font size="2">
-Peiqi Jiang*, <strong>Yuhao Sun*</strong>, Lingyun Yu, Hongtao Xie<br />
-To be submitted.<br />
-<a href="/files/uiamark.pdf">Paper</a> 
-<br />
-</font>
-</p>
